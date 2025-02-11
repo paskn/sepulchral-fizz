@@ -9,10 +9,11 @@ def conf_model(model):
         model = llm.get_model("gemini-1.5-flash-latest")
         model.key = dotenv_values(".env")["GEMINI_API_KEY"]
         return model
-    else:
-        # print("think of other options!")
+    elif model == "llama":
         model = llm.get_model("llama3.2:latest")
         return model
+    else:
+        raise ValueError(f"Unsupported model: {model}")
 
 
 def prompt_novel(model, prompt, file):
