@@ -1,0 +1,21 @@
+---
+title: "Intoduction not"
+author: Sergei Pashakhin
+date: now
+warning: false
+message: false
+fig-format: svg
+execute: 
+  cache: true
+  format:
+    html:
+      toc: true
+      toc-float: true
+      toc-location: right
+      self-contained: true
+      df-print: paged
+      mermaid:
+        theme: neutral
+---
+
+This is a placeholde.
