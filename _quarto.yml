@@ -1,0 +1,33 @@
+project:
+  type: website
+  render:
+    - index.qmd
+    - notes/00-intro.qmd
+
+website:
+  title: "sepulchral-fizz"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: notes/00-intro.qmd
+        text: Notes
+
+  page-navigation: true
+                  
+  sidebar:
+      - title: "Introduction"
+        contents:
+          - notes/00-intro.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
