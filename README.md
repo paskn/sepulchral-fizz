@@ -10,7 +10,7 @@ descriptions from novels.
 ## Read notes ##
 The notes are published here in the sequential order:
 
-1. Introduction
+1. [Introduction](https://www.pashakhin.org/sepulchral-fizz/notes/00-intro.html)
 
 ## Usage ##
 
