@@ -15,6 +15,27 @@
     "href": "index.html",
     "title": "sepulchral-fizz",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Currently, its a collection of bits and pieces, scripts and notes exploring how one can leverage open source LLMs and free computing resources to build various pipelines. The first effort in this collection seeks to explain how to extract characters and their descriptions from novels."
+  },
+  {
+    "objectID": "index.html#read-notes",
+    "href": "index.html#read-notes",
+    "title": "sepulchral-fizz",
+    "section": "Read notes",
+    "text": "Read notes\nThe notes are published here in the sequential order:\n\nIntroduction"
+  },
+  {
+    "objectID": "index.html#usage",
+    "href": "index.html#usage",
+    "title": "sepulchral-fizz",
+    "section": "Usage",
+    "text": "Usage\nI recommend using uv to recreate the Python environment and install all the dependencies.\nuv sync"
+  },
+  {
+    "objectID": "index.html#name",
+    "href": "index.html#name",
+    "title": "sepulchral-fizz",
+    "section": "Name",
+    "text": "Name\nsepulchral fizz is a randomly generated code name for the project similarly to the naming convention of Ubuntu releases. The randomly generated name is adapted so sound `dickensian.’"
   }
 ]
