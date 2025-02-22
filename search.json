@@ -1,0 +1,20 @@
+[
+  {
+    "objectID": "notes/00-intro.html",
+    "href": "notes/00-intro.html",
+    "title": "Intoduction not",
+    "section": "",
+    "text": "This is a placeholde.",
+    "crumbs": [
+      "Notes",
+      "Intoduction not"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "sepulchral-fizz",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
